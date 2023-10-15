@@ -1,0 +1,5 @@
+SELECT LTRIM('블랙핑크', '블랙') FROM DUAL;
+
+SELECT RTRIM('JENNIE    ') FROM DUAL;
+
+SELECT RTRIM('블랙핑크', '블랙') FROM DUAL;
