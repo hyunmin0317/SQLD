@@ -14,4 +14,4 @@
 ## :notebook_with_decorative_cover: Tech Stack
 
 * ### DataBase
-    - MySQL
+    - Oracle
