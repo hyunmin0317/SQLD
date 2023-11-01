@@ -1,0 +1,2 @@
+SELECT SIGN(-25)
+  FROM DUAL;
