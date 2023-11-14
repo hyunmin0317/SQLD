@@ -11,6 +11,16 @@
 
 <br>
 
+## :blue_book: 목차
+
+* ### [chapter 01 SQL 기본](https://github.com/hyunmin0317/SQLD/tree/main/chap01)
+* ### [chapter 02 SQL 활용](https://github.com/hyunmin0317/SQLD/tree/main/chap02)
+* ### [chapter 03 관리 구문](https://github.com/hyunmin0317/SQLD/tree/main/chap03)
+* ### [chapter 04 데이터 모델링의 이해](https://github.com/hyunmin0317/SQLD/tree/main/chap04)
+* ### [chapter 05 데이터 모델과 SQL](https://github.com/hyunmin0317/SQLD/tree/main/chap05)
+
+<br>
+
 ## :notebook_with_decorative_cover: Tech Stack
 
 * ### DataBase
