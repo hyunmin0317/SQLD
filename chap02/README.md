@@ -1,1 +1,1 @@
-# chapter 02 SQL 활용
+## chapter 02 SQL 활용
