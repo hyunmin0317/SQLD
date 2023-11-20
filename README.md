@@ -19,5 +19,5 @@
 
 ## :notebook_with_decorative_cover: Tech Stack
 
-* #### DataBase
+* #### DBMS
     <img src="https://img.shields.io/badge/Oracle-21.0.0-F80000?style=round-square&logo=oracle&logoColor=white"/>
